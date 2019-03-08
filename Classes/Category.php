@@ -1,5 +1,7 @@
 <?php
 
+namespace Classes;
+
 echo 'Bonjour';
 
 

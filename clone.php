@@ -1,5 +1,7 @@
 <?php
 
+use Classes\Product;
+
 
 require_once ('autoloader.php');
 
